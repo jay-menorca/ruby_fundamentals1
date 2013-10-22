@@ -1,4 +1,4 @@
-#Exercise 2 : Jay Menorca
+#Exercise 3 : Jay Menorca
 
 
 class FriendlyGuyImpl
